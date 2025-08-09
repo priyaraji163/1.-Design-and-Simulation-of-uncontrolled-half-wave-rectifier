@@ -53,9 +53,15 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
 
+<img width="1920" height="785" alt="EXP-1 PE SIMULATION" src="https://github.com/user-attachments/assets/4bc74b3f-6fc8-4548-b05a-c036e4f92e42" />
+
 ## Output
 
+<img width="1920" height="970" alt="EXP-1 PE OUTPUT" src="https://github.com/user-attachments/assets/cd3aa5ae-6c07-42f0-af0c-3445dc067f62" />
+
 ## Result
+Uncontrolled Half Wave rectifier is designed and simulated in matlab and runned successfully.
+Verified the output and the simulation.
 
 
 
